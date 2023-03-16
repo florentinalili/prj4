@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'Playfair Display', serif; 
 	color: #202030;
 	background-color: #f8f8fc;
 }
@@ -49,4 +49,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.languages {
+	color:#fefcd6;
 }
